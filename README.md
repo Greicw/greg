@@ -1,4 +1,4 @@
-Meu nome é Sofia
+Meu nome é **Sofia**
 
 
 Estou desenvolvendo uma linguagem JavasScript
